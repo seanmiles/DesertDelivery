@@ -1,5 +1,9 @@
 <a href="https://stealthninjax.itch.io/desert-delivery"><img src="sprites/images/Banner 2.png" style="width: 100%; height: 100%"/></a>
 
+> Side-scrolling level-based runner game, made for June/July Jackpot Jam 2019
+> 
+> Developed using the GML scripting language in GameMaker
+
 ### <a href="https://stealthninjax.itch.io/desert-delivery">itch.io page</a>
 - **Game Jam:** June/July Jackpot Jam 2019
 - **Theme:** "Heatwave"
